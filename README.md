@@ -49,13 +49,7 @@ All the screenshots can be found at our [screenshots page.](https://github.com/e
 
 
 
-## Contributors
 
-* Bas Roding ([broding](https://github.com/broding))
-
-## Credits 
-Thanks Tom Christie ([tomchristie](https://github.com/tomchristie)) for his Rest Framework, and 
-also thanks James Newton-King(http://james.newtonking.com/) for his Json.Net library
 
 
 ## License
